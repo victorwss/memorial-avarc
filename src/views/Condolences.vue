@@ -44,7 +44,7 @@
           :margin-pages="2"
           :click-handler="clickCallback"
           :prev-text="'Voltar'"
-          :next-text="'Proxima'"
+          :next-text="'Próxima'"
           :container-class="'pagination'"
           :page-class="'page-item'"
         >
